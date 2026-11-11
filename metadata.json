@@ -1,0 +1,6 @@
+{
+  "name": "Zceppa Review Funnel Analytics",
+  "description": "Centralized performance tracking across all branches for QR-based AI Rich Review Generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
